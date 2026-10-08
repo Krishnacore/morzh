@@ -1,0 +1,10 @@
+# Keep the image small: only the static site itself ships.
+.git
+.gitignore
+.github
+.DS_Store
+**/.DS_Store
+Dockerfile
+.dockerignore
+*.md
+*.zip
